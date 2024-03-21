@@ -1,0 +1,15 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\bin\Debug\net8.0\repasoCondicionales.exe
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\bin\Debug\net8.0\repasoCondicionales.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\bin\Debug\net8.0\repasoCondicionales.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\bin\Debug\net8.0\repasoCondicionales.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\bin\Debug\net8.0\repasoCondicionales.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\refint\repasoCondicionales.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\repasoCondicionales.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio02\obj\Debug\net8.0\ref\repasoCondicionales.dll

@@ -29,8 +29,8 @@ namespace bienvenida
 
             //metodos de concatenar:
 
-            Console.WriteLine("Bienvenido/a " + nombre + " " + apellido + ", su edad es: " + edad + ".");
-            Console.WriteLine("Bienvenido/a {0} {1}, su edad es: {2}.", nombre, apellido, edad);
+            //Console.WriteLine("Bienvenido/a " + nombre + " " + apellido + ", su edad es: " + edad + ".");
+            //Console.WriteLine("Bienvenido/a {0} {1}, su edad es: {2}.", nombre, apellido, edad);
             ///concatenacion interpolada. clave el $ xq indica que es concatenacion interpolada
             Console.WriteLine($"Bienvenido/a {nombre} {apellido} su edad es: {edad}.");
         }

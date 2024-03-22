@@ -1,0 +1,15 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\bin\Debug\net8.0\ejercicio_lamparitas.exe
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\bin\Debug\net8.0\ejercicio_lamparitas.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\bin\Debug\net8.0\ejercicio_lamparitas.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\bin\Debug\net8.0\ejercicio_lamparitas.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\bin\Debug\net8.0\ejercicio_lamparitas.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\refint\ejercicio_lamparitas.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ejercicio_lamparitas.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio_lamparitas\obj\Debug\net8.0\ref\ejercicio_lamparitas.dll

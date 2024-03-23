@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\ejercicio_lamparitas.csproj",
-      "projectName": "ejercicio_lamparitas",
-      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\ejercicio_lamparitas.csproj",
+      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\ejercicio06.csproj",
+      "projectName": "ejercicio06",
+      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\ejercicio06.csproj",
       "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\obj\\",
       "projectStyle": "PackageReference",

@@ -2,7 +2,7 @@
 
 namespace bienvenida
 {
-    internal class entradaSalida
+    internal class apenomEdad
     {
         static void Main(string[] args)
         {

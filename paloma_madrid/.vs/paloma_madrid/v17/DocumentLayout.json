@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36356FE3-0636-4CA5-BD05-62BB0E56C28B}|primerClase\\primerClase.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\primerclase\\entradasalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36356FE3-0636-4CA5-BD05-62BB0E56C28B}|primerClase\\primerClase.csproj|solutionrelative:primerclase\\entradasalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88507572-B396-4725-8099-614B17E29257}|ejercicio04\\ejercicio04.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\ejercicio04\\promedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88507572-B396-4725-8099-614B17E29257}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\promedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E42004B-F03F-4295-B7AE-811C2A1EB13F}|ejercicio_lamparitas\\ejercicio_lamparitas.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\lamparitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E42004B-F03F-4295-B7AE-811C2A1EB13F}|ejercicio_lamparitas\\ejercicio_lamparitas.csproj|solutionrelative:ejercicio_lamparitas\\lamparitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D509AD0-F51F-4311-81F5-B2C96C4453B5}|ejercicio05\\ejercicio05.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\ejercicio05\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D509AD0-F51F-4311-81F5-B2C96C4453B5}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7876A8F0-FA31-41D1-9391-178F755ACFF0}|ejercicio03\\ejercicio03.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\ejercicio03\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7876A8F0-FA31-41D1-9391-178F755ACFF0}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "entradaSalida.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\primerClase\\entradaSalida.cs",
-              "RelativeDocumentMoniker": "primerClase\\entradaSalida.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\primerClase\\entradaSalida.cs",
-              "RelativeToolTip": "primerClase\\entradaSalida.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio05\\hospital.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\hospital.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio05\\hospital.cs",
+              "RelativeToolTip": "ejercicio05\\hospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T13:45:43.071Z",
+              "WhenOpened": "2024-03-23T20:08:55.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "lamparitas.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\lamparitas.cs",
-              "RelativeDocumentMoniker": "ejercicio_lamparitas\\lamparitas.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio_lamparitas\\lamparitas.cs",
-              "RelativeToolTip": "ejercicio_lamparitas\\lamparitas.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwG4AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "promedio.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio04\\promedio.cs",
+              "RelativeDocumentMoniker": "ejercicio04\\promedio.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio04\\promedio.cs",
+              "RelativeToolTip": "ejercicio04\\promedio.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T12:39:37.878Z",
+              "WhenOpened": "2024-03-23T19:27:51.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "suma.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio03\\suma.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\suma.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio03\\suma.cs",
+              "RelativeToolTip": "ejercicio03\\suma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:25:39.664Z",
               "EditorCaption": ""
             }
           ]

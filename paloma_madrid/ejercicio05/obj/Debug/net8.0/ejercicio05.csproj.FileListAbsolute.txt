@@ -1,0 +1,15 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\bin\Debug\net8.0\ejercicio05.exe
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\bin\Debug\net8.0\ejercicio05.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\bin\Debug\net8.0\ejercicio05.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\bin\Debug\net8.0\ejercicio05.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\bin\Debug\net8.0\ejercicio05.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\refint\ejercicio05.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ejercicio05.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\ejercicio05\obj\Debug\net8.0\ref\ejercicio05.dll

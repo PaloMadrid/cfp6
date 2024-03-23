@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejercicio_lamparitas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363a0644e3ae52af2ec183d41527080b90e091e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6669abfeebac0b0c8ab02524d9fc9778b6bbaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejercicio_lamparitas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejercicio_lamparitas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,7 +7,7 @@ namespace ejercicio_lamparitas
     {
         static void Main(string[] args)
         {
-            //            Una empresa que se dedica a la comercialización de lamparitas de bajo consumo, registra de sus ventas, los siguientes datos: marca y cantidad.El precio de cada lamparita es de $150(Sin importar la marca).
+            // Una empresa que se dedica a la comercialización de lamparitas de bajo consumo, registra de sus ventas, los siguientes datos: marca y cantidad.El precio de cada lamparita es de $150(Sin importar la marca).
             //El programa deberá calcular el precio total de la venta, aplicando un descuento si es que corresponde.
             //A.Si compra 6 lamparitas o más, tiene un descuento del 50 %.
             //B.Si compra 5 lamparitas marca “ArgentinaLuz” se aplica un 40 % y si es de otra marca, el descuento es del 30 %.

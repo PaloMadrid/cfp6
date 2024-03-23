@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\primerClase\\primerClase.csproj",
-      "projectName": "primerClase",
-      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\primerClase\\primerClase.csproj",
+      "projectUniqueName": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\primerClase\\ejercicio02.csproj",
+      "projectName": "ejercicio02",
+      "projectPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\primerClase\\ejercicio02.csproj",
       "packagesPath": "C:\\Users\\Plumi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\primerClase\\obj\\",
       "projectStyle": "PackageReference",

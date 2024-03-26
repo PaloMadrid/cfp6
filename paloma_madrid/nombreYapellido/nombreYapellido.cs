@@ -1,4 +1,4 @@
-﻿namespace ejercicio01ES
+﻿namespace ejercicio01
 {
     internal class nombreYapellido
     {

@@ -7,20 +7,19 @@
             float numero;
             float promedio;
             float suma=0;
-            int i=0;
+            int i;
+            int repeticiones = 5;
 
-
-            while (i<5)
+            for (i=0; i<repeticiones;i++) 
             {
-                i = i + 1;
 
                 Console.WriteLine($"ingrese el {i}° numero: ");
                 numero = float.Parse(Console.ReadLine());
 
-                suma = suma +numero;
-            }
+                suma += numero;
+            } 
 
-            promedio = suma / i;
+                promedio = suma / i;
 
             Console.WriteLine($"suma = {suma}");
             Console.WriteLine($"promedio = {promedio}");

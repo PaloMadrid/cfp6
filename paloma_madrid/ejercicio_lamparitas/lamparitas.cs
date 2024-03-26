@@ -87,6 +87,7 @@ namespace ejercicio_lamparitas
                 }
                     
             }
+
             subtotal = cantidad * precio;
             descuento = porcentajeDescuento * subtotal;
             precioConDescuento = subtotal - descuento;
@@ -105,6 +106,9 @@ namespace ejercicio_lamparitas
                 Console.WriteLine($"valor recargo ingresos brutos = {valorIngresosBrutos}");
                 Console.WriteLine($"precio final con ingresos brutos = {precioConIngresosBrutos}");
             }
+
+
+
         }
     }
 }

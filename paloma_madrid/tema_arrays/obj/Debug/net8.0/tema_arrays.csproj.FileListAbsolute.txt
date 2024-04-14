@@ -1,0 +1,15 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\bin\Debug\net8.0\tema_arrays.exe
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\bin\Debug\net8.0\tema_arrays.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\bin\Debug\net8.0\tema_arrays.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\bin\Debug\net8.0\tema_arrays.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\bin\Debug\net8.0\tema_arrays.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\refint\tema_arrays.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\tema_arrays.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\tema_arrays\obj\Debug\net8.0\ref\tema_arrays.dll

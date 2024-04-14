@@ -1,0 +1,15 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\bin\Debug\net8.0\repaso_switch.exe
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\bin\Debug\net8.0\repaso_switch.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\bin\Debug\net8.0\repaso_switch.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\bin\Debug\net8.0\repaso_switch.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\bin\Debug\net8.0\repaso_switch.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\refint\repaso_switch.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\repaso_switch.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\repaso_switch\obj\Debug\net8.0\ref\repaso_switch.dll

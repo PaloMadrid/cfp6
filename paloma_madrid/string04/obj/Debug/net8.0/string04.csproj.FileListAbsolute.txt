@@ -1,0 +1,15 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\bin\Debug\net8.0\string04.exe
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\bin\Debug\net8.0\string04.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\bin\Debug\net8.0\string04.runtimeconfig.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\bin\Debug\net8.0\string04.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\bin\Debug\net8.0\string04.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\refint\string04.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\string04.genruntimeconfig.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\string04\obj\Debug\net8.0\ref\string04.dll

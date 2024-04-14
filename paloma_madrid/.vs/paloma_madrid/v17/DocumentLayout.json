@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C21472E7-C885-48A6-A01B-BDE62FFC264D}|repaso_bucles\\repaso_bucles.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\repaso_bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C21472E7-C885-48A6-A01B-BDE62FFC264D}|repaso_bucles\\repaso_bucles.csproj|solutionrelative:repaso_bucles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B6FC998-CEB6-4C2A-A5CF-F95366C00855}|tema_arrays\\tema_arrays.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\tema_arrays\\intro_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6FC998-CEB6-4C2A-A5CF-F95366C00855}|tema_arrays\\tema_arrays.csproj|solutionrelative:tema_arrays\\intro_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88507572-B396-4725-8099-614B17E29257}|ejercicio04\\ejercicio04.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\ejercicio04\\promedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88507572-B396-4725-8099-614B17E29257}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\promedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F4F6ABB-F543-427A-A312-7A831B48B155}|string03\\string03.csproj|c:\\users\\plumi\\desktop\\cfp6\\paloma_madrid\\string03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4F6ABB-F543-427A-A312-7A831B48B155}|string03\\string03.csproj|solutionrelative:string03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "promedio.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio04\\promedio.cs",
-              "RelativeDocumentMoniker": "ejercicio04\\promedio.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\ejercicio04\\promedio.cs",
-              "RelativeToolTip": "ejercicio04\\promedio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\string03\\Program.cs",
+              "RelativeDocumentMoniker": "string03\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\string03\\Program.cs",
+              "RelativeToolTip": "string03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T23:21:16.546Z",
+              "WhenOpened": "2024-04-14T21:39:23.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\repaso_bucles\\Program.cs",
-              "RelativeDocumentMoniker": "repaso_bucles\\Program.cs",
-              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\repaso_bucles\\Program.cs",
-              "RelativeToolTip": "repaso_bucles\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwDkAAAAcAAAA",
+              "Title": "intro_arrays.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\tema_arrays\\intro_arrays.cs",
+              "RelativeDocumentMoniker": "tema_arrays\\intro_arrays.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\cfp6\\paloma_madrid\\tema_arrays\\intro_arrays.cs",
+              "RelativeToolTip": "tema_arrays\\intro_arrays.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAgwNcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T23:09:01.961Z",
+              "WhenOpened": "2024-04-14T21:36:53.599Z",
               "EditorCaption": ""
             }
           ]

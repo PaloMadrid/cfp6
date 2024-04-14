@@ -1,0 +1,12 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\bin\Debug\net8.0\libreriaDeFunciones.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\bin\Debug\net8.0\libreriaDeFunciones.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\bin\Debug\net8.0\libreriaDeFunciones.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\libreriaDeFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\libreriaDeFunciones.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\libreriaDeFunciones.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\libreriaDeFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\libreriaDeFunciones.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\libreriaDeFunciones.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\refint\libreriaDeFunciones.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\libreriaDeFunciones.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDeFunciones\obj\Debug\net8.0\ref\libreriaDeFunciones.dll

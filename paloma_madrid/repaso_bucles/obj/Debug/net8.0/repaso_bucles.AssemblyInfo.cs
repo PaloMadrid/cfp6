@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("repaso_bucles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdeacfffd4f4e163284eb8ec3e70e790160c54cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7e02d9d0920d5ece588692e52d558d44f028f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("repaso_bucles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("repaso_bucles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

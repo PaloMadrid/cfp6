@@ -49,7 +49,6 @@ namespace tema_funciones
             //firma lo que contiene una funcion entre () ejemplo console.readline() (no recibe nada, por eso esta vacio () )
 
         }
-
-       
+        //aca van las funciones si estan dentro del mismo codigo que el proyecto principal 
     }
 }

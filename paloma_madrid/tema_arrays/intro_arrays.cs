@@ -213,7 +213,6 @@ namespace tema_arrays
                 nombre1[0] = char.ToUpper(nombre[0]);
             }
             
-
             Console.WriteLine($"nombre ingresado: {nombre1}");
 
             // arrays de texto, cambiar caracteres

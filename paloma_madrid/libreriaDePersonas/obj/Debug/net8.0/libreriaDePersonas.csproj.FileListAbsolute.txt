@@ -1,0 +1,12 @@
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\bin\Debug\net8.0\libreriaDePersonas.deps.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\bin\Debug\net8.0\libreriaDePersonas.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\bin\Debug\net8.0\libreriaDePersonas.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\libreriaDePersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\libreriaDePersonas.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\libreriaDePersonas.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\libreriaDePersonas.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\libreriaDePersonas.sourcelink.json
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\libreriaDePersonas.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\refint\libreriaDePersonas.dll
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\libreriaDePersonas.pdb
+C:\Users\Plumi\Desktop\cfp6\paloma_madrid\libreriaDePersonas\obj\Debug\net8.0\ref\libreriaDePersonas.dll

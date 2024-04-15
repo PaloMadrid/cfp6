@@ -7,7 +7,10 @@ namespace ejercicio09
     {
         static void Main(string[] args)
         {
-            //Cajero Automático. A partir del ingreso de un monto en pesos(valor entero) debemos indicar cuántos billetes de cada valor deberá entregar nuestro cajero automático. Tener en cuenta que tenemos que entregar la menor cantidad de billetes posibles.Deberán utilizar colores en consola.
+            //Cajero Automático. A partir del ingreso de un monto en pesos(valor entero) debemos indicar
+            //cuántos billetes de cada valor deberá entregar nuestro cajero automático.
+            //Tener en cuenta que tenemos que entregar la menor cantidad de billetes posibles.
+            //Deberán utilizar colores en consola.
             //Por ejemplo:
             //Importe $2825
             //Billetes de $1000: 2
@@ -20,7 +23,6 @@ namespace ejercicio09
             //Sobran $5
 
             int resto;
-            int aux;
             int contadorMil=0;
             int contadorQuinientos=0;
             int contadorDoscientos=0;
@@ -61,7 +63,7 @@ namespace ejercicio09
                             }
                             else
                             {
-                                if (resto -50 > 0)
+                                if (resto - 50 > 0)
                                 {
                                     resto -= 50;
                                     contadorCincuenta++;
@@ -85,7 +87,6 @@ namespace ejercicio09
                         }
                     }
                 }
-
             } while (resto > 9);
 
             Console.BackgroundColor = ConsoleColor.Yellow;
@@ -111,7 +112,6 @@ namespace ejercicio09
 
             Console.BackgroundColor = ConsoleColor.Red;
             Console.WriteLine($"resto = {resto}");
-
 
         }
     }
